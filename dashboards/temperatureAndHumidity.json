@@ -52,7 +52,7 @@
                 "type": "default"
             },
             "dashboardType": "one-device",
-            "defaultDevice": "~00:13:a2:00:42:41:65:28",
+            "defaultDevice": "",
             "hasBackground": false,
             "imageSettings": {
                 "image": "https://d3d7go62xglydm.cloudfront.net/widgets/929e71dc-148e-11f0-a8da-5aeacbd47e67.png",
