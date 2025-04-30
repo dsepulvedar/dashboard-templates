@@ -3,7 +3,7 @@
         "__model__": "dashboard",
         "label": "temp-and-humidity-template-type-1",
         "name": "Temperature and Humidity",
-        "description": "",
+        "description": "This is a template dashboard for temperature and humidity",
         "tags": [],
         "context": {
             "size": "auto",
